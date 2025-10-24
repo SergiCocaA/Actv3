@@ -4,5 +4,9 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> nova-feature
 }
